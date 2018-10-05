@@ -1,7 +1,4 @@
-/*
- * @author Ilham Wicaksono
- * @app : sublime text 3
-*/
+
 <html>
 	<head>
 		<title>Upload File</title>
